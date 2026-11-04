@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "title": "1. Slow Dolly-In Reveal",
+    "category": "Cinematic",
+    "tools": "Kling, Grok, Magica, Higgsfield",
+    "aspect": "16:9",
+    "prompt": "Cinematic slow dolly-in on [SUBJECT] standing in a fog-filled warehouse, camera glides forward at a steady creep, shallow depth of field with the background softening as we approach, volumetric god rays cutting through haze, moody teal-and-orange color grade, anamorphic lens flares, 24fps film look, dramatic and tense mood",
+    "tags": "higgsfield,database",
+    "fav": false
+  }
+]
