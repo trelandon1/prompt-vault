@@ -7,5 +7,14 @@
     "prompt": "Cinematic slow dolly-in on [SUBJECT] standing in a fog-filled warehouse, camera glides forward at a steady creep, shallow depth of field with the background softening as we approach, volumetric god rays cutting through haze, moody teal-and-orange color grade, anamorphic lens flares, 24fps film look, dramatic and tense mood",
     "tags": "higgsfield,database",
     "fav": false
+  },
+  {
+    "title": "2. Orbital 360 Hero Shot",
+    "category": "Cinematic",
+    "tools": "Kling, Grok, Magica, Higgsfield",
+    "aspect": "16:9",
+    "prompt": "Smooth orbital camera circling 360 degrees around [SUBJECT] in a low-angle hero pose on a rooftop at blue hour, city skyline bokeh behind, the camera tracks at a constant radius while [SUBJECT] stays centered, cinematic rim light wrapping the silhouette, gentle wind in clothing, epic and triumphant tone, 35mm look",
+    "tags": "higgsfield,database",
+    "fav": false
   }
 ]
